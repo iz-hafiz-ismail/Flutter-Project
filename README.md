@@ -1,2 +1,2 @@
-# Dart-Sub-Project
+# Flutter-Sub-Project
 Collection of my mini Dart project for future refrences
